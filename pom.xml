@@ -17,5 +17,6 @@
 		<module>warehouse-service</module>
 		<module>renren-fast</module>
 		<module>renren-generator</module>
+		<module>nianhuamall-common</module>
 	</modules>
 </project>

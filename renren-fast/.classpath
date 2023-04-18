@@ -162,5 +162,5 @@
   <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/alibaba/fastjson/1.2.79/fastjson-1.2.79.jar"/>
   <classpathentry kind="var" path="M2_REPO/cn/hutool/hutool-all/4.1.1/hutool-all-4.1.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/projectlombok/lombok/1.18.4/lombok-1.18.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar"/>
 </classpath>
