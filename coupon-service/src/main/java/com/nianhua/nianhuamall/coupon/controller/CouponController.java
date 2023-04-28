@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.nianhua.nianhuamall.coupon.entity.CouponEntity;
 import com.nianhua.nianhuamall.coupon.service.CouponService;
-import com.nianhua.common.utils.PageUtils;
-import com.nianhua.common.utils.R;
+import com.nianhua.nianhuamall.common.utils.PageUtils;
+import com.nianhua.nianhuamall.common.utils.R;
 
 
 

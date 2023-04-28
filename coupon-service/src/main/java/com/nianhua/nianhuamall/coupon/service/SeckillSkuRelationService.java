@@ -1,7 +1,7 @@
 package com.nianhua.nianhuamall.coupon.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.nianhua.common.utils.PageUtils;
+import com.nianhua.nianhuamall.common.utils.PageUtils;
 import com.nianhua.nianhuamall.coupon.entity.SeckillSkuRelationEntity;
 
 import java.util.Map;

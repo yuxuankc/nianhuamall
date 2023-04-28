@@ -3,6 +3,8 @@ package com.nianhua.nianhuamall.coupon.controller;
 import java.util.Arrays;
 import java.util.Map;
 
+import com.nianhua.nianhuamall.common.utils.PageUtils;
+import com.nianhua.nianhuamall.common.utils.R;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -12,8 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.nianhua.nianhuamall.coupon.entity.SeckillSkuNoticeEntity;
 import com.nianhua.nianhuamall.coupon.service.SeckillSkuNoticeService;
-import com.nianhua.common.utils.PageUtils;
-import com.nianhua.common.utils.R;
+
 
 
 

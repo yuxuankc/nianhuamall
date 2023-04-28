@@ -1,4 +1,4 @@
-package com.nianhua.nianhuamall.warehouseservice;
+package com.nianhua.nianhuamall.warehouse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
