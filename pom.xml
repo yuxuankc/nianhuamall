@@ -15,5 +15,8 @@
 		<module>order-service</module>
 		<module>product-service</module>
 		<module>warehouse-service</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>nianhuamall-common</module>
 	</modules>
 </project>
