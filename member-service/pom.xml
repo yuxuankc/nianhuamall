@@ -14,12 +14,18 @@
 	<name>member-service</name>
 	<description>member service</description>
 	<properties>
+		<start-class>com.nianhua.nianhuamall.member.MemberServiceApplication</start-class>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2021.0.1</spring-cloud.version>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 	</properties>
 	<dependencies>
+		<dependency>
+			<groupId>com.nianhua.nianhuamall</groupId>
+			<artifactId>nianhuamall-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>

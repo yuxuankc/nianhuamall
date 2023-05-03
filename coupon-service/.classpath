@@ -6,7 +6,7 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-  <classpathentry kind="var" path="M2_REPO/com/nianhua/nianhuamall/nianhuamall-common/0.0.1-SNAPSHOT/nianhuamall-common-0.0.1-SNAPSHOT.jar"/>
+  <classpathentry kind="src" path="/nianhuamall-common"/>
   <classpathentry kind="var" path="M2_REPO/com/baomidou/mybatis-plus-boot-starter/3.3.1/mybatis-plus-boot-starter-3.3.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/baomidou/mybatis-plus/3.3.1/mybatis-plus-3.3.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/com/baomidou/mybatis-plus-extension/3.3.1/mybatis-plus-extension-3.3.1.jar"/>

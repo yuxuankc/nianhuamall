@@ -1,6 +1,7 @@
 package com.nianhua.nianhuamall.product;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.nianhua.nianhuamall.product.ProductServiceApplication;
 import com.nianhua.nianhuamall.product.entity.BrandEntity;
 import com.nianhua.nianhuamall.product.service.BrandService;
 import org.junit.jupiter.api.Test;
